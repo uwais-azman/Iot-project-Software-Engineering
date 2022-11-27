@@ -31,6 +31,8 @@
 
 
 The sensor we are using for this project is Arduino Uno. 
+
+
 ![image](https://user-images.githubusercontent.com/116787176/204153725-710ceee2-9832-455d-a9f7-1885dfe66ed4.png)
 
 The data transmission protocol we are using is HTTPS method.

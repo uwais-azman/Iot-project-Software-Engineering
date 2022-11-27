@@ -29,7 +29,7 @@
 
 
 
-
+# Sensor
 The sensor we are using for this project is Arduino Uno. 
 
 

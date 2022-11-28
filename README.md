@@ -43,6 +43,11 @@ Since we are using arduino, below is the connection of the components simulated 
 
 ![image](https://user-images.githubusercontent.com/116787176/204154138-eab5658d-d5db-4289-80ce-cdceac6d8a99.png)
 
+#Dashboard
+
+We are planning to use Google Data Studio to design the dashboard
+
+![software P1](https://user-images.githubusercontent.com/117338680/204228978-40d26008-a457-4fd5-9d15-d935759d9ea4.png)
 
 
 

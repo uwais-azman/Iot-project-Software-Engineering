@@ -43,9 +43,11 @@ Since we are using arduino, below is the connection of the components simulated 
 
 ![image](https://user-images.githubusercontent.com/116787176/204154138-eab5658d-d5db-4289-80ce-cdceac6d8a99.png)
 
+# Dahsboard
 
+![software P1](https://user-images.githubusercontent.com/117338680/204167061-d12b8869-db52-4e4f-8946-c3f1cba82304.png)
 
-
+For the dashboard, we are going to monitor the number of times the IR sensor is turned on after it is turned off, and how long it is turned on. Then, the dashboard analyzes the data of the parking system.
 
 
 
